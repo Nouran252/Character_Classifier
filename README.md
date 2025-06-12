@@ -4,8 +4,8 @@
 A deep learning project for handwritten character classification using Convolutional Neural Networks (CNNs).
 
 
-[Open in Google Colab]([Open in Google Colab](https://colab.research.google.com/drive/1VnClNIPDSYOXjtu2ZcyHbRGpYLYM1Vev?usp=sharing&authuser=1#scrollTo=MyHEAWSbDqHQ)
-)
+[Open in Google Colab](https://colab.research.google.com/drive/1twpH2E-m37yWu-I_RD9ZLDOLt7nAbaP8#scrollTo=t-feimczPIBk)
+
 
 
 ---
